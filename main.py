@@ -15,7 +15,7 @@ numbers = "0123456789"
 symbols = "!#$%&+-=?@^_"
 NANSymbols = "il1Lo0O"
 chars = ''
-print("Введите сколько поролей вы хотите создать")
+print("Enter how many passwords you want to create")
 countPaswords = int(input())
 print("Enter 1 if you want to add small letters of the English alphabet to your password, and 0 if you do not want")
 l = int(input())
